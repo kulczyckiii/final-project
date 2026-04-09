@@ -1,12 +1,14 @@
-# Proyecto Final: Landing Page de Jane Doe
+# Simple Interest Calculator
 
-Este proyecto es parte de la certificación de Git y GitHub. Consiste en una página web de portafolio personal que incluye secciones de habilidades, proyectos y recomendaciones.
+A bash script that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Tecnologías utilizadas
-* HTML5
-* CSS3
-* JavaScript
-* Git y GitHub
+## Input:
+* `p`: principal amount
+* `t`: time period in years
+* `r`: annual rate of interest
 
-## Autor
-Oleksandr Kulchytskyy
+## Output:
+* `simple interest`: p * t * r / 100
+
+## How to run:
+bash simple-interest.sh
