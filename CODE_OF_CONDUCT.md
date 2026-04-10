@@ -1,22 +1,22 @@
-# Código de Conducta
+# Code of Conduct
 
-## Nuestro Compromiso
-Nos comprometemos a fomentar un entorno acogedor y seguro para todos.
+## Our Pledge
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## Nuestros Estándares
-Ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen el uso de un lenguaje acogedor e inclusivo y el respeto a los diferentes puntos de vista.
+## Our Standards
+Examples of behavior that contributes to a positive environment include using welcoming and inclusive language and being respectful of differing viewpoints.
 
-## Responsabilidades de Aplicación
-Los administradores del proyecto son responsables de aclarar los estándares de comportamiento aceptable.
+## Enforcement Responsibilities
+Project maintainers are responsible for clarifying the standards of acceptable behavior.
 
-## Alcance
-Este código de conducta se aplica tanto dentro de los espacios del proyecto como en los espacios públicos cuando un individuo representa al proyecto.
+## Scope
+This Code of Conduct applies within all project spaces.
 
-## Aplicación
-Los casos de comportamiento abusivo, acosador o inaceptable podrán ser denunciados poniéndose en contacto con el equipo del proyecto.
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team.
 
-## Directrices de Aplicación
-Los administradores del proyecto seguirán estas directrices para determinar las consecuencias de cualquier acción que consideren necesaria.
+## Enforcement Guidelines
+Project maintainers will follow these Enforcement Guidelines in determining the consequences for any action they deem necessary.
 
-## Atribución
-Este Código de Conducta es una adaptación del Contributor Covenant, versión 2.0.
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
